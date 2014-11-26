@@ -1,0 +1,10 @@
+Wed, 26 Nov 2014 09:25:25 -0500
+doc/README_FOR_APP	Wed, 26 Nov 2014 09:18:57 -0500
+app/controllers/application_controller.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/controllers/product_imports_controller.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/controllers/products_controller.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/helpers/application_helper.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/helpers/product_imports_helper.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/helpers/products_helper.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/models/product.rb	Wed, 26 Nov 2014 09:18:57 -0500
+app/models/product_import.rb	Wed, 26 Nov 2014 09:18:57 -0500
